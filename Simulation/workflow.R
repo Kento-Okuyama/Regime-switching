@@ -1,7 +1,7 @@
 # workflow.R
 
 # Set the working directory
-setwd("C:/Users/kento/OneDrive - UT Cloud (1)/PhD/Regime-switching/Simulation")
+# setwd("XXX/Regime-switching/Simulation")
 
 ####################
 ## Skip from here ##
